@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "读书"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: https://books/
 
   - title: "思考"
     url: https://mmistakes.github.io/minimal-mistakes/
