@@ -4,13 +4,13 @@ main:
     url: /books/
 
   - title: "思考"
-    url: https://mmistakes.github.io/minimal-mistakes/
+    url: /mind/
 
   - title: "健身"
-    url: https://mmistakes.github.io/minimal-mistakes/year-archive/
+    url: /fitness/
 
   - title: "杂项"
-    url: https://mmistakes.github.io/minimal-mistakes/page-archive/
+    url: /others/
 
   - title: "关于"
-    url: https://mmistakes.github.io/minimal-mistakes/collection-archive/
+    url: /about/
